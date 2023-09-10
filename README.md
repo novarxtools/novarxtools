@@ -1,4 +1,11 @@
-### Hi there 👋
+<div align=center>
+  <img src=./docs/imgs/banner.png width=100% /> 
+  <p align=center>AMS IC Verifcation  |  AMS IC Optimization</p>
+</div>
+
+ <div align=center>
+  <p align=center> <a href=https://www.cts.uninova.pt/>Micro-Nanoelectronics Group  |  UNINOVA-CTS, NOVA University of Lisbon </a> </p>
+</div>
 
 <!--
 **novarxtools/novarxtools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
