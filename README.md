@@ -1,5 +1,5 @@
 <div align=center>
-  <img src=.banner.png width=100% /> 
+  <img src=./banner.png width=100% /> 
   <p align=center>AMS IC Verifcation  |  AMS IC Optimization</p>
 </div>
 
